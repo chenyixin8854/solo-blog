@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Synchronized关键字](http://cx.wwyll.com/articles/2019/10/18/1571377076340.html)
 * [B-树，B+树](http://cx.wwyll.com/articles/2019/10/16/1571221690290.html)
 * [Volatile关键字](http://cx.wwyll.com/articles/2019/10/16/1571211165229.html)
 * [单例模式](http://cx.wwyll.com/singleton)
